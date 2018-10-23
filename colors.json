@@ -1,0 +1,21 @@
+{
+  "background": "#1F1F24",
+  "currentLine": "#23252B",
+  "invisibles": "#424D5B",
+  "selection": "#515B70",
+  "cursor": "#FFFFFF",
+  "plainText": "#FFFFFF",
+  "comments": "#6C7986",
+  "markupKeywords": "#92A1B1",
+  "strings": "#FC6A5D",
+  "numbers": "#9686F5",
+  "keywords": "#FC5FA3",
+  "preprocessor": "#FD8F3F",
+  "urls": "#53A5FB",
+  "attributes": "#75B492",
+  "classNames": "#91D462",
+  "methodNames": "#AEF37D",
+  "macros": "#FD8F3F",
+  "typeNames": "#7AC8B6",
+  "constants": "#99E8D5"
+}
